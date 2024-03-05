@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+}
+.hakkımda{
+    color: gold;
+    background-color: tomato;
+    margin: 15px;
+    padding: 15px;
+}
+.adres{
+    color: lightgreen;
+    background-color: floralwhite;
+     margin: 15px;
+     padding: 15px;
+    
+}
+.iletişim{
+    color: indianred;
+    background-color: aquamarine;
+    margin: 15px;
+    padding: 15px;
+}

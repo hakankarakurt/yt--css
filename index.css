@@ -1,0 +1,18 @@
+.kahve{
+color: brown;
+padding: 15px;
+
+
+
+}
+.anasayfa{
+    background-color: rgb(149, 157, 158);
+    padding: 15px;
+}
+p{
+    font-size: medium;
+    font-style: inherit;
+}
+h1{
+    font-size: larger;
+}
